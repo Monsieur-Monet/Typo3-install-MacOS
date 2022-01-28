@@ -77,7 +77,23 @@ cd /Applications/XAMPP
 ```bash
 sudo chmod -R 777 htdocs
 ```
+To avoid some errors that would occur we need to change some variables in the php.ini file.
+
+Go to /Applications/XAMPP/xamppfiles/etc
+
+Open the php.ini in your text editor of choice.
+
+Look for 'max_execution_time='
+
+Change the value behind the '=' to 240
+
+Under that, paste the following line 'max_input_vars=1500'
+
+Save the document and restart your database with the XAMPP Application.
+
 Now you should be able to open the install.php in your webbrowser (http://localhost/testseite/typo3/install.php)
+
+
 
 You can now follow the Typo3 installation :)
 
