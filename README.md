@@ -52,6 +52,7 @@ Now we have to create a new user.
 
 Go to 'Rights' in the top bar and click on the create new user at the bottom of the page.
 
+Type in a username, password etc. and give it **ALL** the rights you can find at the bottom of the screen.
 
 
 ## Installing Typo3
@@ -76,7 +77,9 @@ cd /Applications/XAMPP
 ```bash
 sudo chmod -R 777 htdocs
 ```
+Now you should be able to open the install.php in your webbrowser (http://localhost/testseite/typo3/install.php)
 
+You can now follow the Typo3 installation :)
 
 
 
