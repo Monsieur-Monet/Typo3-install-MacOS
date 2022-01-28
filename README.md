@@ -44,9 +44,9 @@ Navigate to your phpMyAdmin page
 
 On the left side of the page, select 'new'.
 
-Give your database a name. I called mine 'typo3'. _How original_
+Give your database the name 'test'. _How original_
 
-In dropdown menu on the right select **utf8mb4_unicode_ci**.
+In dropdown menu on the right select **utf8mb4_german2_ci**.
 
 Now we have to create a new user.
 
