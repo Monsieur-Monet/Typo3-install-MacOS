@@ -77,7 +77,7 @@ cd /Applications/XAMPP
 ```bash
 sudo chmod -R 777 htdocs
 ```
-To avoid some errors that would occur we need to change some variables in the php.ini file.
+To avoid some errors that would occur, we need to change some variables in the php.ini file.
 
 Go to /Applications/XAMPP/xamppfiles/etc
 
