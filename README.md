@@ -5,7 +5,7 @@ A guide on how to install Typo3 lokaly using XAMPP on MacOS
 
 Download the following files. Preferably in the exact version, because I had some problems with other versions.
 
-[TYPO3 10 LTS (10.4.23)](https://get.typo3.org/version/10)
+[TYPO3 10 LTS (10.4.23)](get.typo3.org/10.4.23/zip)
 
 [XAMPP OSX 7.2.34](https://deac-fra.dl.sourceforge.net/project/xampp/XAMPP%20Mac%20OS%20X/7.2.34/xampp-osx-7.2.34-2-installer.dmg)
 
